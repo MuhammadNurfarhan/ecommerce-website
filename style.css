@@ -450,7 +450,7 @@ footer {
 }
 
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 738px) {
     nav {
         padding: 20px;
     }
@@ -503,6 +503,7 @@ footer {
     }
 
     .product {
+        height: auto;
         clip-path: none;
         display: flex;
         flex-direction: column;
