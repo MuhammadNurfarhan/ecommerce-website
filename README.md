@@ -1,2 +1,2 @@
 # ecommerce-website
-web ecommerce sneakers nike with html, css, and vanilla javascript
+Web Ecommerce Sneakers Nike with html, css, and vanilla javascript
